@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Pragya :)
 - 👀 I’m interested in Frontend Web Development!
-- 🌱 I’m currently learning JavaScript!😊
 - 💞️ I’m looking to collaborate on Frontend projects!
+- 🌱 I’m currently learning JavaScript. Checkout my learning card below!😊
+  
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64a91f9c1dadb37b72b8493f?variant=dark&roadmaps=javascript)](https://roadmap.sh)
+
 
 
 <!---
