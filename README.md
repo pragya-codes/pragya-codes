@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UniChic-app <br>👯 I’m looking to collaborate on any frontend development project!<br>🌱 I’m currently learning Redux, which is a state management library in React.js<br>💬 Ask me about React.js, JavaScript, HTML/CSS.<br>⚡ Fun fact about me is that I love doodling in my free time!
+🔭 I’m currently learning Backend Development in Express with Node js <br>👯 I’m looking to collaborate on any frontend development project!<br>💬 Ask me about React.js, JavaScript, HTML/CSS.<br>⚡ Fun fact about me is that I love doodling in my free time!
 
 
 ## 🌐 Socials:
